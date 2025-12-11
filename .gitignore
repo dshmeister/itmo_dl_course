@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# jupyter
+.ipynb_checkpoints/
+
+# macos
+.DS_Store
+
+# ide
+.idea/
+.vscode/
+
