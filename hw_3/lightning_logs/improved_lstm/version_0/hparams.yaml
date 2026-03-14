@@ -1,0 +1,7 @@
+dropout: 0.5
+embed_dim: 256
+hidden_dim: 256
+lr: 0.001
+num_classes: 5
+num_layers: 2
+vocab_size: 21967
