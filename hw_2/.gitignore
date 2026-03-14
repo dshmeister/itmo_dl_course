@@ -1,0 +1,25 @@
+# Data
+data/
+
+# Checkpoints
+checkpoints/
+
+# Logs
+lightning_logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
